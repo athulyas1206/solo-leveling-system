@@ -1,4 +1,4 @@
-# Solo Leveling System 🗡️
+# Solo Leveling System 
 
 A gamified habit tracking and productivity system inspired by the "Solo Leveling" concept.
 
